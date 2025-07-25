@@ -161,13 +161,9 @@ LSTM_DROPOUT = 0.1
 ├── Newcas-Tensorflow-100-Copy1.ipynb  # Main implementation notebook
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
-├── data3/                            # EEG dataset directory
-├── models/                           # Saved model weights
-├── results/                          # Training results and plots
-└── utils/                           # Helper functions
-    ├── data_loader.py               # Data loading utilities
-    ├── model_utils.py               # Model architecture helpers
-    └── evaluation.py               # Metrics and visualization
+├── data/                              # EEG dataset directory
+├── models/                            # Saved model weights
+
 ```
 
 ## Performance Metrics
