@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions and support:
-- **Email**: [your-email@domain.com]
+- **Email**: [ahmed_barbary@yahoo.com] [abdelhameed.ahmed@mayo.edu]
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/eeg-seizure-detection/issues)
 
 ---
