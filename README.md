@@ -163,15 +163,12 @@ LSTM_DROPOUT = 0.1
 ├── requirements.txt                    # Python dependencies
 ├── data/                               # EEG dataset directory
 ├── models/                             # Saved model weights
-   ├── full_models/
-   │   └── seizure_detection_model.h5
-   ├── weights/
-   │   ├── fold_0_weights.weights.h5
-   │   ├── fold_1_weights.weights.h5
-   │   ├── ...fold_9_weights.weights.h5
-   │   └── final_model_weights.weights.h5
-   ├── seizure_detection_architecture.json
-   └── training_history.pkl
+    ├── full_models/
+    │   └── seizure_detection_model.h5
+    ├── weights/
+    │   └── final_model_weights.weights.h5
+    ├── seizure_detection_architecture.json
+    └── training_history.pkl
 ```
 
 ## Performance Metrics
